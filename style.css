@@ -1,6 +1,6 @@
 /* Deafult styles for small screens and anything not caught by media */
 body{
-    background-color: pink;
+    background-image: linear-gradient(pink, red, blue);
 }
 
 .header {
